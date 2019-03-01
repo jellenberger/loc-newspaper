@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+pandas = "*"
+jupyter = "*"
+tornado = "!=6.0"
+tqdm = "*"
+jq = "*"
+
+[requires]
+python_version = "3.7"
