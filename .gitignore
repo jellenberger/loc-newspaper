@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 *.hdf5
+/data
 data/
 db/
 images/
