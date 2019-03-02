@@ -13,7 +13,9 @@ pandas = "*"
 jupyter = "*"
 tornado = "!=6.0"
 tqdm = "*"
-jq = "*"
+requests = "*"
+fastai = "*"
+pyjq = "*"
 
 [requires]
 python_version = "3.7"
